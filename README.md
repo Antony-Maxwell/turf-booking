@@ -4,13 +4,32 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+I followed a simple and scalable approach . First, I analyzed the requirements, then built the UI with flutter, I used statefull widgets across the application. I ensured the code is reusable, readable, and follows Flutter best practices.
 
-A few resources to get you started if this is your first Flutter project:
+## Setup instruction
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Clone the repository:
+git clone [text](https://github.com/Antony-Maxwell/turf-booking.git)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Navigate to the project directory:
+cd project_folder
+
+Install dependencies:
+flutter pub get
+
+Run the app:
+flutter run
+
+## Features
+
+Responsive UI
+
+Lottie success animation (network-based)
+
+Navigation between screens
+
+Modular code structure
+
+## Time Taken to Complete the Task
+
+I spent approximately 3-4 hours completing the task, including time for understanding the requirements, implementation, testing, and polishing the UI.
