@@ -9,7 +9,7 @@ I followed a simple and scalable approach . First, I analyzed the requirements, 
 ## Setup instruction
 
 Clone the repository:
-git clone [text](https://github.com/Antony-Maxwell/turf-booking.git)
+git clone https://github.com/Antony-Maxwell/turf-booking.git
 
 Navigate to the project directory:
 cd project_folder
